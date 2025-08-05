@@ -39,7 +39,7 @@
 1. Clone este repositório:
 ```bash
 git clone https://github.com/Cesar19Augusto/Teste-Pratico-eCatalogo
-cd Teste-Pratico-eCat-logos
+cd Teste-Pratico-eCatalogos
 ```
 2. Configure o arquivo .env.
  ```bash
@@ -76,4 +76,5 @@ People who contributed to the construction of this project
     </td>
   </tr>
 </table>
+
 
