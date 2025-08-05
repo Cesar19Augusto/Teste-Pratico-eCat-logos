@@ -38,7 +38,7 @@
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/Cesar19Augusto/Teste-Pratico-eCat-logos
+git clone https://github.com/Cesar19Augusto/Teste-Pratico-eCatalogo
 cd Teste-Pratico-eCat-logos
 ```
 2. Configure o arquivo .env.
