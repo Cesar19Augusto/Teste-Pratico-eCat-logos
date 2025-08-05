@@ -38,7 +38,7 @@
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/Cesar19Augusto/Teste-Pratico-eCatalogo
+git clone https://github.com/Cesar19Augusto/Teste-Pratico-eCatalogos
 cd Teste-Pratico-eCatalogos
 ```
 2. Configure o arquivo .env.
@@ -76,5 +76,6 @@ People who contributed to the construction of this project
     </td>
   </tr>
 </table>
+
 
 
